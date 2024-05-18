@@ -36,5 +36,12 @@ Simulación en el mundo "/sand.world":
 https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/72b2606c-49b0-4b36-8c57-f26dc40789f7
 
 
+## **Rosbags**
 
+Rosbag del mundo "/floor.world":
 
+https://urjc-my.sharepoint.com/:f:/g/personal/a_martinezal_2021_alumnos_urjc_es/En8VfD4FsYRKmyYvxUttxewBF5kxwwDxc11f54BSSReh1g?e=qkrj4E
+
+Rosbag del mundo "/sand.world":
+
+https://urjc-my.sharepoint.com/:f:/g/personal/a_martinezal_2021_alumnos_urjc_es/EuyFzSuowyBPi_xy61xXjgAB5Lk47JB2E8E3SCQc3REgpA?e=mdMYtF
