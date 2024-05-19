@@ -8,7 +8,9 @@ En primer lugar realizamos un análisis de las gráficas obtenidas tras lanzar n
 
 En el caso del mundo "/floor.world", podemos ver la siguiente gráfica:
 
+![floor](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/d3e362f9-8184-4a24-8901-4cf3cb476db0)
 
+![imu_floor](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/b2a8e7fb-8dac-446c-9b3d-839c392af3e9)
 
 
 Como podemos ver en la parte donde el robot va subiendo la velocidad progresivamente, la velocidad de las ruedas sufre alguna fluctuación debido a que el robot se choca con los cubos principalmente con las ruedas delanteras debido a que sufren el primer contacto directo con los cubos. Además, debido a las irregularidades que presenta el terreno podemos ver pequeñas vibraciones en las velocidades de las ruedas que aumentan y disminuyen según la zona por la que pase el robot.
@@ -16,6 +18,9 @@ En cuanto a la velocidad que se publica en Odom y la que marca que llevan las ru
 
 Por otro lado en el caso del mundo "/sand.world", tenemos esta gráfica:
 
+![sand](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/496007bc-c841-4557-817c-f12378e6d8f4)
+
+![imu_sand](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/4c27d028-80af-4309-ae7a-d97cd746680f)
 
 En esta situación podemos ver también las fluctuaciones nombradas anteriormente donde las velocidades de las ruedas disminuyen o aumentan de golpe debido al choque con los cubos. En este caso algo notable es que al ser arena cuando las velocidades de las ruedas van subiendo para llegar a 5, no sufren esa complicación que se nota en la anterior. Se ve que el ascenso es más lineal y continuo y desde mi punto de vista se puede deber al terreno y como ha reaccionado el robot ante el choque con los cubos, ya que como se podrá ver en los vídeos no es igual en los dos.
 
