@@ -55,3 +55,32 @@ https://urjc-my.sharepoint.com/:f:/g/personal/a_martinezal_2021_alumnos_urjc_es/
 Rosbag del mundo "/sand.world":
 
 https://urjc-my.sharepoint.com/:f:/g/personal/a_martinezal_2021_alumnos_urjc_es/Es03OJvOzJJFh3f_gMQj_NcB4QRsnJn-0H3FtlAS7055Dg?e=gnydA2
+
+
+## **Vídeo explicativo de la Parte A**
+
+https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/3670f04a-4950-4053-8c7f-748f373ef4f8
+
+Debido a que hay imágenes del árbol de transforamdas que no se ven bien en el vídeo, las pongo acontinuación:
+![tree_final](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/a53293d5-945e-4776-bfa8-8fecc799fc1b)
+**Árbol completo**
+
+![tree_final2](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/3d464674-477c-48fc-94ff-c8209dd355e5)
+**Ruedas**
+
+![tree_final1](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/6fd0e7e6-ea0c-411e-b35d-ec55eab0c294)
+**Brazo articulado**
+
+![tree_final3](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/9587e7cf-2fc3-4d5f-b7ab-f7ba5cbb953b)
+**Cámara frontal y sensor IMU**
+
+![tree_final4](https://github.com/ana-martinezal2021/Practica_3-Simulacion_en_ROS_y_Gazebo/assets/92941166/15bf751e-4179-4e3d-8359-9765e2bec7c3)
+**Cuerpo del robot**
+
+
+
+
+
+
+
+
